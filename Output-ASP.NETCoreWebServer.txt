@@ -1,0 +1,12 @@
+﻿CowsAndBulls> info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+CowsAndBulls>       User profile is available. Using 'C:\Users\Pandora\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+CowsAndBulls> Hosting environment: Development
+CowsAndBulls> Content root path: G:\Didi-new\C#\ASP.NET Core\CowsAndBulls\CowsAndBulls\CowsAndBulls
+CowsAndBulls> Now listening on: http://localhost:13828
+CowsAndBulls> Application started. Press Ctrl+C to shut down.
+CowsAndBulls> info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+CowsAndBulls>       Request starting HTTP/1.1 GET http://localhost:44394/favicon.ico  
+CowsAndBulls> info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+CowsAndBulls>       Sending file. Request path: '/favicon.ico'. Physical path: 'G:\Didi-new\C#\ASP.NET Core\CowsAndBulls\CowsAndBulls\CowsAndBulls\wwwroot\favicon.ico'
+CowsAndBulls> info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+CowsAndBulls>       Request finished in 81.2173ms 200 image/x-icon
